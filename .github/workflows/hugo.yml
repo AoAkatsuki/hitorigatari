@@ -60,6 +60,7 @@ jobs:
           HUGO_ENV: production
         run: |
           cd hitorigatari  # ビルドするディレクトリがある場所まで飛ぶ
+          ls -al
           hugo \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
