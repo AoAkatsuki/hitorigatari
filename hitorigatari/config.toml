@@ -1,6 +1,6 @@
 baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Universal"
-theme = ["hugo-universal-theme", "hugo-shortcode-gallery"]
+theme = ["hugo-universal-theme", "shortcode-gallery"]
 themesDir = "../"
 languageCode = "ja-JP"
 # Site language. Available translations in the theme's `/i18n` directory.
