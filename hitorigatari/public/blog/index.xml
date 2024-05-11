@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Universal</title>
-    <link>https://aoakatsuki.github.io/hitorigatari/blog/</link>
+    <link>//192.168.0.120:5000/blog/</link>
     <description>Recent content in Blog on Universal</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://aoakatsuki.github.io/hitorigatari/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//192.168.0.120:5000/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>初投稿</title>
-      <link>https://aoakatsuki.github.io/hitorigatari/blog/20240512/</link>
+      <link>//192.168.0.120:5000/blog/20240512/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0900</pubDate>
-      <guid>https://aoakatsuki.github.io/hitorigatari/blog/20240512/</guid>
+      <guid>//192.168.0.120:5000/blog/20240512/</guid>
       <description>Webページ開設しました！！！！！ 今年の4月から活動を始めていますが、ようやくWebページの準備が整いました。 私はいにしえのヲタクなので、自</description>
     </item>
   </channel>
