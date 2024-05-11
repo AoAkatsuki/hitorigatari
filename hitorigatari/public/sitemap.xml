@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//192.168.0.120:5000/blog/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/blog/</loc>
     <lastmod>2024-05-12T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>//192.168.0.120:5000/categories/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/categories/</loc>
     <lastmod>2024-05-12T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>//192.168.0.120:5000/categories/news/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/categories/news/</loc>
     <lastmod>2024-05-12T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>//192.168.0.120:5000/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/</loc>
     <lastmod>2024-05-12T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>//192.168.0.120:5000/blog/20240512/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/blog/20240512/</loc>
     <lastmod>2024-05-12T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>//192.168.0.120:5000/contact/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/contact/</loc>
   </url><url>
-    <loc>//192.168.0.120:5000/faq/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/faq/</loc>
   </url><url>
-    <loc>//192.168.0.120:5000/about_me/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/about_me/</loc>
   </url><url>
-    <loc>//192.168.0.120:5000/authors/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/authors/</loc>
   </url><url>
-    <loc>//192.168.0.120:5000/gallery/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/gallery/</loc>
   </url><url>
-    <loc>//192.168.0.120:5000/link/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/link/</loc>
   </url><url>
-    <loc>//192.168.0.120:5000/tags/</loc>
+    <loc>https://aoakatsuki.github.io/hitorigatari/tags/</loc>
   </url>
 </urlset>
