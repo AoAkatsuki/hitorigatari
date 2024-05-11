@@ -1,4 +1,4 @@
-baseurl = "https://aoakatsuki.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://aoakatsuki.github.io/hitorigatari/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Universal"
 theme = ["hugo-universal-theme", "hugo-shortcode-gallery"]
 themesDir = "../"
