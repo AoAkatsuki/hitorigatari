@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Universal</title>
+    <title>Blog on Home</title>
     <link>//192.168.0.120:5000/blog/</link>
-    <description>Recent content in Blog on Universal</description>
+    <description>Recent content in Blog on Home</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0900</lastBuildDate>
