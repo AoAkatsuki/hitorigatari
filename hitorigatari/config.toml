@@ -1,17 +1,18 @@
 baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Universal"
-theme = ["hugo-universal-theme", "shortcode-gallery"]
+theme = ["hugo-universal-theme", "hugo-shortcode-gallery"]
 themesDir = "../"
 languageCode = "ja-JP"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "ja"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+# disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
 # number of words of summarized post content (default 70)
 summaryLength = 70
+hasCJKLanguage = true
 
 # Define the number of posts per page
 paginate = 10
@@ -336,6 +337,12 @@ pluralizelisttitles = false
 #     parent     = "section.ap-blog"
 
 [[menu.main]]
+    name       = "About me"
+    identifier = "menu.about"
+    url        = "/about_me/"
+    weight     = 4
+
+[[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
     url        = "/blog/"
@@ -354,10 +361,16 @@ pluralizelisttitles = false
 #     weight     = 7
 
 [[menu.main]]
+    name       = "Gallery"
+    identifier = "menu.gallery"
+    url        = "/gallery/"
+    weight     = 6
+
+[[menu.main]]
     name       = "Link"
     identifier = "menu.link"
     url        = "/link/"
-    weight     = 6
+    weight     = 7
 
 # Top bar social links menu
 
@@ -543,14 +556,15 @@ pluralizelisttitles = false
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "更新記事"
+    subtitle = ""
     hide_summary = false
 
 [params.footer.recent_posts]
-    enable = true
+    enable = false
 
 [taxonomies]
   category = "categories"
   tag = "tags"
   author = "authors"
+

@@ -6,34 +6,13 @@
     <description>Recent content in Categories on Universal</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="//192.168.0.120:5000/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lorem</title>
-      <link>//192.168.0.120:5000/categories/lorem/</link>
+      <title>News</title>
+      <link>//192.168.0.120:5000/categories/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.0.120:5000/categories/lorem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>//192.168.0.120:5000/categories/programming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.0.120:5000/categories/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pseudo</title>
-      <link>//192.168.0.120:5000/categories/pseudo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.0.120:5000/categories/pseudo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Starting</title>
-      <link>//192.168.0.120:5000/categories/starting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.0.120:5000/categories/starting/</guid>
+      <guid>//192.168.0.120:5000/categories/news/</guid>
       <description></description>
     </item>
   </channel>
