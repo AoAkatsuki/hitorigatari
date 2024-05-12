@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>//192.168.0.120:5000/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0900</lastBuildDate>
+    <atom:link href="//192.168.0.120:5000/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初投稿</title>
+      <link>//192.168.0.120:5000/blog/20240512/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0900</pubDate>
+      <guid>//192.168.0.120:5000/blog/20240512/</guid>
+      <description>Webページ開設しました！！！！！ 今年の4月から活動を始めていますが、ようやくWebページの準備が整いました。 私はいにしえのヲタクなので、自</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//192.168.0.120:5000/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.0.120:5000/contact/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//192.168.0.120:5000/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.0.120:5000/faq/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>//192.168.0.120:5000/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.0.120:5000/about_me/</guid>
+      <description>名前 暁 蒼（あかつき あお／Akatsuki Ao） 誕生日 11月1日 住んでるところ 日本の真ん中らへん 活動 普段、プログラマ屋さん 時々、VTuber 趣</description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>//192.168.0.120:5000/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.0.120:5000/gallery/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>LINK</title>
+      <link>//192.168.0.120:5000/link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.0.120:5000/link/</guid>
+      <description>YouTube 暁 蒼【あなたと夜明けを待つラジオ】 X（旧Twitter） 暁 蒼（@AA_yoakemati）</description>
+    </item>
+  </channel>
+</rss>
