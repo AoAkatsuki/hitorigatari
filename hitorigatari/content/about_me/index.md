@@ -49,7 +49,7 @@ categories = []
 <!-- ![](./img/DSC_5053-Edit.png)![](./img/DSC_5190-Edit.png) -->
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
-[これまで撮った写真は「GALLERY」より](/gallery/)
+[これまで撮った写真は「GALLERY」より](/hitorigatari/gallery/)
 
 　<!-- 見栄えのための空白行 -->
 #### 3. ゲーム
