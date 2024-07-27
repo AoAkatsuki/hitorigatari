@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>写真 on Home</title>
+    <link>//192.168.0.120:5000/categories/%E5%86%99%E7%9C%9F/</link>
+    <description>Recent content in 写真 on Home</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0900</lastBuildDate>
+    <atom:link href="//192.168.0.120:5000/categories/%E5%86%99%E7%9C%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galleryを更新しました</title>
+      <link>//192.168.0.120:5000/blog/20240728/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0900</pubDate>
+      <guid>//192.168.0.120:5000/blog/20240728/</guid>
+      <description>夏になったから梅雨の写真を上げよう はい、完全に出遅れました。 編集だけ終わって満足しちゃってた&amp;hellip; 更新した写真はこちらから それでは</description>
+    </item>
+  </channel>
+</rss>
